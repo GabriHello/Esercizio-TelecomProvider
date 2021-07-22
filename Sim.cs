@@ -39,7 +39,7 @@ namespace TelecommmmmProvider
 
 
         public void stampaDatiSim()
-        {
+        { //aaa 
             Console.WriteLine("\nNumero della sim: " + numeroTelefonico);
             Console.WriteLine("\nIl credito residuo è di " + creditoResiduo + " euro.");
 
